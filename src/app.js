@@ -7,7 +7,7 @@ var Vibe = require('ui/vibe');
 
 var main = new UI.Card({
   title: 'PebbleDice',
-  icon: 'resources/pebbledice.png',
+  icon: 'resources/images/pebbledice.png',
   subtitle: 'Shake your hand to throw the dice!',
   body: '',
   style: 'large'
